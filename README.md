@@ -2,4 +2,5 @@
 
 this basically consumes your ram
 
-thanks for reading ❤️ 
+Written in Python
+Thanks for reading ❤️ 

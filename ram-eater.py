@@ -3,7 +3,7 @@ import secrets
 data = []
 count = 0
 while True:
-    byte = secrets.token_bytes(10000)
+    byte = secrets.token_bytes(50000)
     data.append(byte)
     data.append(byte)
     data.append(byte)
